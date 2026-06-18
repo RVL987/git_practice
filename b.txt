@@ -1,1 +1,3 @@
 This is file B
+New line added to b.txt
+Second update to b.txt
