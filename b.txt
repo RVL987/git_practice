@@ -3,3 +3,4 @@ New line added to b.txt
 Second update to b.txt
 Temporary change in b.txt
 Change 2
+Change 5
